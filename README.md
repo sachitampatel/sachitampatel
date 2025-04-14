@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **sachitampatel177@gmail.com** For Collaboration/Project or
 - 😄 **Pronouns:** Sachitam
 - ⚡ **Fun fact:** I Love Data and Data Love Me
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sachitam.patel.9?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachitam_patel) [![LinkedIn](https://www.linkedin.com/in/sachitam-kumar-patel-b477582b5?originalSubdomain=in)](https://linkedin.com/in/Sachitam Kumar Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachitampatel177@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sachitam.patel.9?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachitam_patel) [![LinkedIn](https://www.linkedin.com/in/sachitam-kumar-patel-b477582b5?originalSubdomain=in)](https://www.linkedin.com/in/sachitam-kumar-patel-b477582b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachitampatel177@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
